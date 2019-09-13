@@ -24,6 +24,7 @@ end
 def take_a_number(array, new_customer)
   
   array << new_customer
+  customer_index = array.
   
   customer_status = "Welcome, #{new_customer}. You are number "
   
