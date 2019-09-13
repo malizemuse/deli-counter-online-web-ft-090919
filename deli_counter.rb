@@ -35,6 +35,11 @@ def take_a_number(array, new_customer)
 end
 
 
+# Method that 
+def now_serving()
+
+
+
 # TEST CODE 
 
 customer_list = ["Ram", "Liz", "An", "Nana"]
