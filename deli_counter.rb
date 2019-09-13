@@ -23,7 +23,9 @@ end
 # Method that returns
 def take_a_number(array, new_customer)
   
-  array 
+  array << new_customer
+  
+  
   
 end
 
