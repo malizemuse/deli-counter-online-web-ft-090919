@@ -25,7 +25,7 @@ def take_a_number(array, new_customer)
   
   array << new_customer
   
-  
+  customer_status
   
   
 end
