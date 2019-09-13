@@ -1,6 +1,7 @@
-def line
+def line(array)
   
-  
+  if array == []
+    
   
   
   
