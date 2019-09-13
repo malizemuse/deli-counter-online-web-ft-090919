@@ -21,7 +21,12 @@ end
 
 
 # Method that returns
-def 
+def take_a_number
+  
+  
+  
+end
+
 
 # TEST CODE 
 
