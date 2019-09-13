@@ -20,6 +20,8 @@ def line(array)
 end
 
 
+# Method that returns
+def 
 
 # TEST CODE 
 
