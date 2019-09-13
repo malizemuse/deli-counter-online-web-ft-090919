@@ -47,21 +47,3 @@ def now_serving(array)
   
 end
 
-
-
-
-# TEST CODE 
-
-=begin
-customer_list = ["Ram", "Liz", "An", "Nana"]
-
-puts line(customer_list)
-
-puts take_a_number(customer_list, "Carlos")
-
-puts line(customer_list)
-
-now_serving(customer_list)
-
-puts line(customer_list)
-=end
