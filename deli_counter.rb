@@ -30,6 +30,8 @@ def take_a_number(array, new_customer)
   
   puts customer_status
   
+  customer_status
+  
 end
 
 
