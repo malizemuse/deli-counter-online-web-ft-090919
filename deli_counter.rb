@@ -13,10 +13,12 @@ def line(array)
       
       line_status << " #{place + 1}. #{customer}"
     
-      
-    
     end
   
   line_status
   
 end
+
+
+# TEST CODE 
+
