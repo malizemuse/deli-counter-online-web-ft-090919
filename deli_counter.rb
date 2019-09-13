@@ -7,11 +7,11 @@ def line(array)
   # Return string listing ppl in line
   else
     
-    line_status = "The line is currently: "
+    line_status = "The line is currently:"
     
     array.each do |customer, place|
       
-      line_status << "#{place + 1}. #{customer}"
+      line_status << " #{place + 1}. #{customer}"
     
       
     
