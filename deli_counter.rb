@@ -22,3 +22,4 @@ end
 
 # TEST CODE 
 
+customer_list = ["Ram", "Liz", "An", "Nana"]
