@@ -9,11 +9,9 @@ def line(array)
     
     line_status = "The line is currently:"
     
-    array.each_with_index do |customer, place|
-      
+    array.each_with_index { |customer, place|
       line_status << " #{place + 1}. #{customer}"
-    
-    end
+    }
   
   end
   
