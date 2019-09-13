@@ -26,7 +26,7 @@ def take_a_number(array, new_customer)
   array << new_customer
   customer_index = array.find_index(new_customer)
   
-  customer_status = "Welcome, #{new_customer}. You are number #{customer_index + 1}"
+  customer_status = "Welcome, #{new_customer}. You are number #{customer_index + 1} in line."
   
   
 end
