@@ -1,3 +1,4 @@
+# Method that takes array and 
 def line(array)
   
   # If array is empty...
