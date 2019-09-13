@@ -36,7 +36,12 @@ end
 
 
 # Method that 
-def now_serving()
+def now_serving(array)
+  
+  
+  
+end
+
 
 
 
