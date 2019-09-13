@@ -12,7 +12,6 @@ def line(array)
     array.each_with_index { |customer, place|
       line_status << " #{place + 1}. #{customer}"
     }
-  
   end
   
   line_status
