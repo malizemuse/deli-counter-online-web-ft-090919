@@ -30,14 +30,21 @@ def take_a_number(array, new_customer)
   
   puts customer_status
   
-  customer_status
-  
 end
 
 
 # Method that 
 def now_serving(array)
   
+  if array == []
+    
+    puts "There is nobody waiting to be served!"
+    
+  else
+    
+    
+    
+  end
   
   
 end
