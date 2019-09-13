@@ -15,7 +15,7 @@ def line(array)
     
     end
   
-end
+  end
   
   line_status
   
