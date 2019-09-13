@@ -61,3 +61,5 @@ puts take_a_number(customer_list, "Carlos")
 puts line(customer_list)
 
 now_serving(customer_list)
+
+puts line(customer_list)
