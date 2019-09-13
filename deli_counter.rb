@@ -39,3 +39,4 @@ customer_list = ["Ram", "Liz", "An", "Nana"]
 
 puts line(customer_list)
 
+puts take_a_number(customer_list, "Carlos")
