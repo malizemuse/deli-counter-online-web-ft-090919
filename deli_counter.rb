@@ -9,7 +9,7 @@ def line(array)
     
     line_status = "The line is currently:"
     
-    array.each do |csustomer, place|
+    array.each do |customer, place|
       
       line_status << " #{place}. #{customer}"
     
