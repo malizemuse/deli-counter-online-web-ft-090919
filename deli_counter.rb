@@ -21,7 +21,7 @@ end
 
 
 # Method that returns
-def take_a_number(current_line, customer)
+def take_a_number(current_line, new_customer)
   
   
   
