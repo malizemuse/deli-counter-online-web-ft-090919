@@ -52,6 +52,7 @@ end
 
 # TEST CODE 
 
+=begin
 customer_list = ["Ram", "Liz", "An", "Nana"]
 
 puts line(customer_list)
@@ -63,3 +64,4 @@ puts line(customer_list)
 now_serving(customer_list)
 
 puts line(customer_list)
+=end
