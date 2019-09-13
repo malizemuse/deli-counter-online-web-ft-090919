@@ -33,7 +33,7 @@ def take_a_number(array, new_customer)
 end
 
 
-# Method that 
+# Method that lists current customer served then removes them from line
 def now_serving(array)
   
   if array == []
