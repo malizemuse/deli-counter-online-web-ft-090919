@@ -11,7 +11,7 @@ def line(array)
     
     array.each_with_index do |customer, place|
       
-      line_status << " #{place}. #{customer}"
+      line_status << " #{place + 1}. #{customer}"
     
     end
   
