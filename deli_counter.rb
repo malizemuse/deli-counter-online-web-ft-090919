@@ -1,4 +1,4 @@
-# Method that takes array and 
+# Method that returns line_status
 def line(array)
   
   # If array is empty...
@@ -18,6 +18,7 @@ def line(array)
   line_status
   
 end
+
 
 
 # TEST CODE 
